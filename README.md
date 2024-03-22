@@ -35,16 +35,15 @@ Take the first step towards legal enlightenment and embark on a journey of disco
 To run LawLens locally, execute the following commands:
 
 For ChainLit:
-'''bash
-chainlit run model_with_chainlit.py -w
-
 '''
+chainlit run model_with_chainlit.py -w
 
 
 For Streamlit:
 '''bash
 streamlit run model_with_streamlit.py
-'''
+
+
 
 
 ![image](https://github.com/A-dvika/LawLens/assets/115079077/68f5fec6-ca49-4a50-922e-5b8f412602bd)
