@@ -33,15 +33,21 @@ Take the first step towards legal enlightenment and embark on a journey of disco
 ---
 
 To run LawLens locally, execute the following commands:
-
+```bash
+   git clone git@github.com:A-dvika/PaperDigest--AI-Research-Paper-Summariser.git
+   cd LawLens
+   ```
 For ChainLit:
-'''
-chainlit run model_with_chainlit.py -w
+```bash
+  chainlit run model_with_chainlit.py -w
+   ```
 
 
 For Streamlit:
-'''bash
-streamlit run model_with_streamlit.py
+```bash
+  streamlit run model_with_streamlit.py
+   ```
+
 
 
 
