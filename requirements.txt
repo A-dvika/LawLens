@@ -1,0 +1,17 @@
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+pandas 
+numpy
+python-dotenv
+sentence-transformers== 2.2.2
+llama-index
+transformers
+accelerate
+torch
+accelerate
+bitsandbytes
+faiss_cpu
