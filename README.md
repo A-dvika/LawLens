@@ -1,5 +1,5 @@
 
-# LawLens: The Legal Helper 📚⚖️
+# ConstiChats/LawLens: The Legal Helper 📚⚖️
 
 Welcome to LawLens, your legal assistant trained on the Indian Constitution!
 
